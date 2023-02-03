@@ -1,12 +1,12 @@
 body {
-    background-color: aquamarine;
+    background-color: #121212;
 }
 
 #img_button {
     text-decoration: none;
     margin-top: 10px;
     margin-left: 1300px;
-    color: black;
+    color: white;
 }
 
 #img_button:hover {
@@ -16,7 +16,7 @@ body {
 #adv_button {
     text-decoration: none;
     float: right;
-    color: black;
+    color: white;
 }
 
 #adv_button:hover {
@@ -25,9 +25,8 @@ body {
 
 #search_button {
     text-decoration: none;
-    margin-top: 0px;
     float: right;
-    color: black;
+    color: white;
 }
 
 #search_button:hover {
@@ -35,13 +34,13 @@ body {
 }
 
 #search {
-    margin-top: 30%;
+    margin-top: 15%;
     text-align: center;
 }
 
-
 #img {
-    margin-top: 30%;
+    margin-top: 15%;
+    margin-right: 4px;
     text-align: center;
 }
 
