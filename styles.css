@@ -1,0 +1,49 @@
+body {
+    background-color: aquamarine;
+}
+
+#img_button {
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 1300px;
+    color: black;
+}
+
+#img_button:hover {
+    text-decoration: underline;
+}
+
+#adv_button {
+    text-decoration: none;
+    float: right;
+    color: black;
+}
+
+#adv_button:hover {
+    text-decoration: underline;
+}
+
+#search_button {
+    text-decoration: none;
+    margin-top: 0px;
+    float: right;
+    color: black;
+}
+
+#search_button:hover {
+    text-decoration: underline;
+}
+
+#search {
+    margin-top: 30%;
+    text-align: center;
+}
+
+
+#img {
+    margin-top: 30%;
+    text-align: center;
+}
+
+#adv {
+}
