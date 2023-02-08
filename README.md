@@ -11,4 +11,7 @@ https://www.youtube.com/watch?v=JPAEri3vDXs
 # Installation
 Clone the repository by git clone `https://github.com/dcsp3/search.git`
 
+# Attributions
+Icon made by [Kiranshastry](https://www.flaticon.com/authors/kiranshastry) from www.flaticon.com
 
+Logo from www.cooltext.com
