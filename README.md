@@ -6,10 +6,11 @@ Search is a Google clone that implements various features like google search, im
 
 This is a submission for [CS50W](https://cs50.harvard.edu/web/2020/). (Project 0)
 
-https://www.youtube.com/watch?v=JPAEri3vDXs
+# Working (YouTube Video)
+[![Watch the video](https://img.youtube.com/vi/JPAEri3vDXs/maxresdefault.jpg)](https://www.youtube.com/watch?v=JPAEri3vDXs)
 
 # Installation
-Clone the repository by git clone `https://github.com/dcsp3/search.git`
+Clone the repository by `git clone https://github.com/dcsp3/search.git`
 
 # Attributions
 Icon made by [Kiranshastry](https://www.flaticon.com/authors/kiranshastry) from www.flaticon.com
